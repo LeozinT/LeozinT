@@ -24,3 +24,6 @@
 | --- | --- | --- |
 [Nome do Projeto](Link) | Breve Descrição | Tecnologias
 
+## Como Falar Comigo
+- [LinkedIn](https://www.linkedin.com/in/leonardo-anselmo-7a442a308/)
+- ` leonardo.anselmo181106@gmail.com `
